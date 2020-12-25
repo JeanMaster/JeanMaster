@@ -1,0 +1,20 @@
+{
+  "name": "jeanmasterpage",
+  "version": "1.0.0",
+  "description": "My personal WebPage and portfolio. vlog and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "webpage",
+    "portfolio",
+    "magic",
+    "porgraming"
+  ],
+  "author": "jean carlos <jeancarlos70@gmail.com>",
+  "license": "MIT"
+}
