@@ -31,6 +31,11 @@ Feel free to reach out! I'm always open to new opportunities and collaborations.
 - 🐦 **Twitter**: none for now.
 - 📸 **Instagram**: [@jean.magic](https://www.instagram.com/jean.magic/)
 
+### Recent Activity 🚀
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanMaster&theme=github)](https://github.com/jeanMaster)
+
+
 ## My GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -71,6 +76,10 @@ ________________________________________________________________________________
 - 💼 **LinkedIn**: [Jean Carlos](https://www.linkedin.com/in/jeanmaster/)
 - 🐦 **Twitter**: No tengo por ahora
 - 📸 **Instagram**: [@jean.magic](https://www.instagram.com/jean.magic/)
+
+### Actividad Reciente 🚀
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanMaster&theme=github)](https://github.com/jeanMaster)
 
 ## Mis estadísticas en GitHub 📊
 
