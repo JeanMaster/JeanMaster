@@ -1,3 +1,44 @@
+# Hello! 👋 I'm Jean Carlos
+
+## About Me 🧑‍💻
+
+Hello! I'm **Jean Carlos**, an entrepreneurial developer from **Venezuela** 🇻🇪. I work in commerce 🛒 and am a passionate technology enthusiast 💻. 
+
+- 🎓 Graduated in **Computer Science**.
+- 📚 Constantly learning on **Platzi** and the web 🌐.
+- 💡 Always exploring and learning new technologies.
+
+## My Interests 🌟
+
+- 🖥️ Software development.
+- � Entrepreneurship in tech.
+- 🌍 Innovation and technology applied to commerce.
+- 📖 Continuous learning.
+
+## My Skills 🛠️
+
+- 💻 Programming.
+- 🛒 Commerce management.
+- 📊 Data analysis.
+- 🔧 Problem-solving.
+
+## Contact Me 📫
+
+Feel free to reach out! I'm always open to new opportunities and collaborations.
+
+- 📧 **Email**: [jeancarlos70@gmail.com](mailto:jeancarlos70@gmal.com)
+- 💼 **LinkedIn**: [Jean Carlos](https://www.linkedin.com/in/jeanmaster/)
+- 🐦 **Twitter**: none for now.
+- 📸 **Instagram**: [@jean.magic](https://www.instagram.com/jean.magic/)
+
+## My GitHub Stats 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+Thanks for visiting my profile! 😊
+_____________________________________________________________________________________________________________________________________________________________________________
+
+
 # ¡Hola! 👋 Soy Jean Carlos
 
 ## Sobre mí 🧑‍💻
